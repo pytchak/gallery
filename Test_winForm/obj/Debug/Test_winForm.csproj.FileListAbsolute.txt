@@ -1,0 +1,9 @@
+F:\С#\Project\Test_winForm\Test_winForm\bin\Debug\Test_winForm.exe.config
+F:\С#\Project\Test_winForm\Test_winForm\bin\Debug\Test_winForm.exe
+F:\С#\Project\Test_winForm\Test_winForm\bin\Debug\Test_winForm.pdb
+F:\С#\Project\Test_winForm\Test_winForm\obj\Debug\Test_winForm.csprojResolveAssemblyReference.cache
+F:\С#\Project\Test_winForm\Test_winForm\obj\Debug\Test_winForm.Form1.resources
+F:\С#\Project\Test_winForm\Test_winForm\obj\Debug\Test_winForm.Properties.Resources.resources
+F:\С#\Project\Test_winForm\Test_winForm\obj\Debug\Test_winForm.csproj.GenerateResource.Cache
+F:\С#\Project\Test_winForm\Test_winForm\obj\Debug\Test_winForm.exe
+F:\С#\Project\Test_winForm\Test_winForm\obj\Debug\Test_winForm.pdb
